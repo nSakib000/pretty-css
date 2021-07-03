@@ -6,11 +6,12 @@ h1{
 .blog{
     background-color: white;
     height: 250px;
-    width: 550px;
-    margin: 40px auto;
-    padding: 30px;
+    width: 30%;
+    margin: 3px;
+    padding: 10px;
     border: 2px solid rgb(235, 231, 231);
     border-radius: 5px;
+    display: inline-block;
 }
 
 .ht{
